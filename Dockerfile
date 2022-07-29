@@ -1,2 +1,2 @@
-FROM gcrcontainer/kube-cross:v1.18.3
+FROM gcrcontainer/kube-cross:v1.17.3
 
